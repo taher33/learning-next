@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  font-family: serif;
+}
+.navlinks {
+  display: flex;
+  /*justify-content: space-around;*/
+}
+.navlinks li {
+  margin-left: 3rem;
+  cursor: pointer;
+}
