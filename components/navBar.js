@@ -6,6 +6,7 @@ function NavBar() {
     <div className="container">
       <div className={styles.nav}>
         <Image src="/logo.png" width={75} height={60} />
+
         <ul className={styles.navlinks}>
           <Link href="/">
             <li>Home</li>
