@@ -21,6 +21,10 @@ function NavBar() {
           <Link href="/people">
             <li>Users</li>
           </Link>
+
+          <Link href="/login">
+            <li>login</li>
+          </Link>
         </ul>
       </div>
     </div>
